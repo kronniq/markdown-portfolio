@@ -7,13 +7,13 @@
   script
 4. viewing
 
-chess
-checers
-  standard
-  chinese
-cards
-  poker
-    holdem
-    omaha
-  gin
-monopoly
+* chess
+* checers
+  - standard
+  - chinese
+* cards
+  - poker
+    * holdem
+    * omaha
+  - gin
+* monopoly
